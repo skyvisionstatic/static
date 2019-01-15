@@ -1,0 +1,55 @@
+
+
+
+.lora .skrollable >  .wpb_wrapper:hover{
+-webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1.05); 
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1.05); 
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1.05); 
+    transition: all 200ms ease-in;
+    transform: scale(1.05); 
+
+
+ box-shadow: 4px 4px 8px rgba(131, 131, 131, 0.8);
+    -moz-box-shadow: 4px 4px 8px rgba(164, 164, 164, 0.8);
+    -webkit-box-shadow: 4px 4px 8px rgba(164, 164, 164, 0.8);
+
+
+}
+
+
+.lora .skrollable >  .wpb_wrapper{
+
+    box-shadow: 4px 4px 8px rgba(131, 131, 131, 0.8);
+    -moz-box-shadow: 4px 4px 8px rgba(164, 164, 164, 0.8);
+    -webkit-box-shadow: 4px 4px 8px rgba(164, 164, 164, 0.8);
+
+
+
+
+
+}
+
+
+.lora > div.skrollable > div > div.wpb_text_column.wpb_content_element > div > div
+ {  
+    font-size: 13px;
+    line-height: 20px;
+
+ }
+
+.lora > div.vc_column-inner.skrollable-before > div > div.wpb_text_column.wpb_content_element > div > h5:nth-child(3)
+ {  
+    font-size: 14px;
+    line-height: 20px;
+
+ }
+
+ .lora > div.vc_column-inner.skrollable-before > div > div.wpb_text_column.wpb_content_element > div > h5:nth-child(1)
+ {  
+   width:115%;
+  margin-left: -19px;
+  margin-top: -19px;
+ }
